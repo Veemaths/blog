@@ -7,6 +7,6 @@ A curated collection of mathematics notes, worked problem sets, and study archiv
 
 ## 📚 Resources & Materials
 
-* **[[Question Bank|Question Banks]]** - Downloadable problem sets, solutions, and exam preparation sheets.
+* **[[Question Banks]]** - Downloadable problem sets, solutions, and exam preparation sheets.
 
 > Feel free to explore the sidebar for individual topic notes
