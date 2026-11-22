@@ -1,7 +1,7 @@
 ---
 title: Welcome to my math blog
 ---
-A curated collection of mathematics notes, worked problem sets, and study archives.
+A curated collection of mathematics notes, worked problem sets, study archives and solutions to question banks.
 
 ---
 
